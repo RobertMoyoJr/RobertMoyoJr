@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hello World, I'm Robert.👋
+
+## ⚡ Self-Taught | Passionate About Building Seamless User Experiences.
+
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/robert-mudzimu-9aa8b2175/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RobertMoyoJr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/RobertMoyoJr) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/RobertMoyoJr) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](robertmudzimujr@gmail.com)
 
 <!--
 **RobertMoyoJr/RobertMoyoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
