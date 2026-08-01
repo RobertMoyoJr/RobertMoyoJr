@@ -17,7 +17,7 @@ ______
 
 #### UI/UX Design
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 #### Frontend
 
@@ -36,7 +36,7 @@ ______
 
 #### Tools
 
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white) [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#) [![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](#) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white) [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#) [![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](#)
 
 
 <table>
